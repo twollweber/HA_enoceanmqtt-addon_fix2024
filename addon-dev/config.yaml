@@ -1,6 +1,6 @@
 name: "EnOcean MQTT (dev)"
 description: "EnOcean to MQTT bridge for Home Assistant"
-url: "https://github.com/mak-gitdev/HA_enoceanmqtt-addon"
+url: "https://github.com/twollweber/HA_enoceanmqtt-addon_fix2024"
 version: "0.1.28-2"
 slug: "ha_enoceanmqtt_dev"
 stage: "experimental"
